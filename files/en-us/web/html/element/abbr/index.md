@@ -196,6 +196,7 @@ This is especially helpful for people who are unfamiliar with the terminology or
     </tr>
   </tbody>
 </table>
+<div></div>
 
 ## Specifications
 
